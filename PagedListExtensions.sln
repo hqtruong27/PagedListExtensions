@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{7F669AC5-F26A-4BF2-91CB-85D9F7FCF2A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PagedListExtensions", "PagedListExtensions\PagedListExtensions.csproj", "{599519AF-5FBD-4EC6-94AB-F5AFABE57C49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{599519AF-5FBD-4EC6-94AB-F5AFABE57C49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{599519AF-5FBD-4EC6-94AB-F5AFABE57C49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{599519AF-5FBD-4EC6-94AB-F5AFABE57C49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{599519AF-5FBD-4EC6-94AB-F5AFABE57C49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{599519AF-5FBD-4EC6-94AB-F5AFABE57C49} = {7F669AC5-F26A-4BF2-91CB-85D9F7FCF2A5}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE02EDD1-7756-4D17-B782-F33C011362FB}
+	EndGlobalSection
+EndGlobal
